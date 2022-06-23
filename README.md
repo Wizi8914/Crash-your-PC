@@ -6,4 +6,4 @@
 
 :heart: It does not destroy your PC, just restart it and everything will be as before.
 
-<img src="">
+<img src="/oof.png">
